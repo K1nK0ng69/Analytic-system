@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+paho-mqtt
+paho-mqtt-client
+redis
+numpy
+pandas
+scikit-learn
+json
